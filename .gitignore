@@ -1,2 +1,4 @@
 *.jpg
 *.png
+*.h5
+*.keras
