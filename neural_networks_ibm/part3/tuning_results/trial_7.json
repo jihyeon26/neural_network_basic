@@ -1,0 +1,8 @@
+{
+  "trial_id": "06",
+  "hyperparameters": {
+    "units": 256,
+    "learning_rate": 0.009072090676584257
+  },
+  "score": 0.8799999952316284
+}
