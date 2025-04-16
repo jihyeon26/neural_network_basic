@@ -2,3 +2,10 @@
 *.png
 *.h5
 *.keras
+
+# 가상환경 폴더 제외
+rl-env/
+venv/
+.env/
+__pycache__/
+*.pyc
